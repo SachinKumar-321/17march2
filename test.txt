@@ -1,0 +1,6 @@
+vim filename
+i
+type
+esc
+:wq
+
