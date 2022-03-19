@@ -1,0 +1,13 @@
+hello, this is Sachin, my first file for git
+
+vi <file_name>
+
+i
+
+then type whatever you want
+
+esc
+
+:wq
+
+
